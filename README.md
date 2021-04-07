@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kirsan98
-- 👀 I’m interested in computer science
+- 👀 I’m interested in computer science especially in software engineer
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on projet of software engineering
 - 📫 How to reach me kirsan.geoffroy@etu.u-bordeaux.fr
