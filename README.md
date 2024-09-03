@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science especially in software engineer
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on project of software engineering
-- 📫 How to reach me kirsan.geoffroy@etu.u-bordeaux.fr
+- 📫 How to reach me kirsan.geoffroy98@gmail.com
 
 <!---
 Kirsan98/Kirsan98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
