@@ -4,7 +4,9 @@
 ## 🚀 Tech Stack & Tools
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-  <a href="https://quarkus.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Quarkus_logo_%28red_hat%29.png" alt="quarkus" width="40" height="40"/></a>
+  <a href="https://quarkus.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/quarkusio/quarkus/main/docs/src/main/asciidoc/images/quarkus_icon_rgb_128px_reverse.svg" alt="quarkus" width="40" height="40"/>
+  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
